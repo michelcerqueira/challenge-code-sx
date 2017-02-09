@@ -1,0 +1,23 @@
+@mixin containerEsquerdoFoto($width:100%) {
+
+  display: inline-block;
+  float: left;
+  padding-left: $recuoDoBloco;;
+  max-width:$width;
+}
+@mixin textoContainerEsquerdoH2($cortexto:$corTextoLadoEsq){
+  display: inline-block;
+  float: left;
+  padding: 0px 0px 0px 14px;
+  font-weight: lighter;
+  font-size: 25px;
+  border: 0px solid;
+  margin-top: 15px;
+  margin-bottom: 0px;
+  text-transform: uppercase;
+  color:$cortexto;
+
+
+
+
+}

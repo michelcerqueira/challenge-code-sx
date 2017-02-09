@@ -1,0 +1,10 @@
+Para rodar o projeto
+
+1- Dar um npm install para instalar as dependencias
+2- comando gulp watch
+3 npm install express -g no caso instalei global
+4 node app.js
+
+Obrigado pela oportunidade
+
+Utilizei o gulp pois estou começando com o react agora
